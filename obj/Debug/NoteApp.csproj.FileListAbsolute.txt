@@ -1,0 +1,10 @@
+D:\Code\c#\noteapp\NoteApp\bin\Debug\NoteApp.exe.config
+D:\Code\c#\noteapp\NoteApp\bin\Debug\NoteApp.exe
+D:\Code\c#\noteapp\NoteApp\bin\Debug\NoteApp.pdb
+D:\Code\c#\noteapp\NoteApp\obj\Debug\NoteApp.csproj.AssemblyReference.cache
+D:\Code\c#\noteapp\NoteApp\obj\Debug\NoteApp.Form1.resources
+D:\Code\c#\noteapp\NoteApp\obj\Debug\NoteApp.Properties.Resources.resources
+D:\Code\c#\noteapp\NoteApp\obj\Debug\NoteApp.csproj.GenerateResource.cache
+D:\Code\c#\noteapp\NoteApp\obj\Debug\NoteApp.csproj.CoreCompileInputs.cache
+D:\Code\c#\noteapp\NoteApp\obj\Debug\NoteApp.exe
+D:\Code\c#\noteapp\NoteApp\obj\Debug\NoteApp.pdb
